@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="coins-01" clip-path="url(#clip0_35_11395)">
+<path id="Icon" d="M10.6253 10.6252C12.9071 10.3197 14.6668 8.36539 14.6668 6.00004C14.6668 3.42271 12.5775 1.33337 10.0002 1.33337C7.63482 1.33337 5.68049 3.09315 5.37501 5.37489M10.6668 10C10.6668 12.5774 8.57749 14.6667 6.00016 14.6667C3.42283 14.6667 1.3335 12.5774 1.3335 10C1.3335 7.42271 3.42283 5.33337 6.00016 5.33337C8.57749 5.33337 10.6668 7.42271 10.6668 10Z" stroke="#F4E8D3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_35_11395">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
