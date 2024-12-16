@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: url('../Media/Font/IBM-Plex-Sans/IBMPlexSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'DIN Next';
+    src: url('../Media/Font/DIN-Next-Font/DINNextW1G-Bold.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+  }

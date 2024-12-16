@@ -89,6 +89,16 @@ module.exports = {
       fontFamily: {
         'sans': ["'IBM Plex Sans'", 'sans-serif'], // Police principale
         'din': ["'DIN Next W1G'", 'sans-serif'],   // Seconde police
+        fontWeight: {
+          medium: 500,
+          bold: 700,
+        },
+        letterSpacing: {
+          wider: '0.05em',
+        },
+        lineHeight: {
+          tight: '1.25',
+        },
       },
       // Espacement ou tracking pour les titres
       letterSpacing: {
